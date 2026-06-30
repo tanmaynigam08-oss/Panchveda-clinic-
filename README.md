@@ -1,6 +1,6 @@
 # Panchveda by Dr Tanmay Nigam
 
-Ayurvedic clinic website for Panchveda, located in Ashiyana, Lucknow.
+Ayurvedic clinic website for Panchveda, located in Aishbagh, Lucknow.
 
 ## 🌿 About
 Panchveda is an Ayurvedic clinic offering consultation for common health concerns with a natural and personalized approach.
@@ -9,9 +9,8 @@ Panchveda is an Ayurvedic clinic offering consultation for common health concern
 MD (Ayurveda) | Consultant Physician  
 
 ## 📍 Location
-Sector G, LDA Colony  
-Power House Chauraha  
-Ashiyana, Lucknow, India  
+74 Tilak Nagar Aishbagh Lucknow 226004
+Opposite Samadhi Mandir
 
 ## ⏰ Timings
 Monday to Saturday  
@@ -21,7 +20,7 @@ Monday to Saturday
 Phone: 7398720058  
 
 ## 💻 Website
-(After GitHub Pages is live, add your link here)
+https://tanmaynigam08-oss.github.io/Panchveda-clinic-/
 
 ## 🛠️ Built With
 - HTML  
